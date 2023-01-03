@@ -1,7 +1,11 @@
 {
   "name": "chrome-autoskip-netflix",
   "description": "Auto trigger Netflix skip intro button",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "author": {
+    "name": "Gustavo Miguel",
+    "email": "gu.rmiguel@gmail.com"
+  },
   "main": "index.js",
   "license": "MIT",
   "scripts": {
